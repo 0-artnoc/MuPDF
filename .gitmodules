@@ -1,0 +1,3 @@
+[submodule "app/src/main/libs/libmupdf"]
+	path = app/src/main/libs/libmupdf
+	url = git://git.ghostscript.com/mupdf.git
